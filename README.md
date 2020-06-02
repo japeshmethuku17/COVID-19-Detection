@@ -7,5 +7,5 @@ Implementation details are as follows:
   * covid_attempt3.py - VGG-baseline CNN model.
 
 Note:
-*	Implementation of the deep learning models has been inspired from Dr Adrian Rosebrock blogs(pyimagesearch).
+*	Implementation of the deep learning models has been inspired from Dr Adrian Rosebrock blogs (pyimagesearch).
 *	Disclaimer: Deep Learning models represented in this repository are only educational and research purposes and the accuracy of the models represented don't indicate its significance to real-life applications. The systems used for detecting COVID-19 in the real-world are more robust and significant.

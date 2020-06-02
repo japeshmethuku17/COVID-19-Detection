@@ -1,4 +1,4 @@
-# COVID-19-Detection
+# COVID-19 Detection in X-Ray Images
 Implementing different CNN models to detect COVID-19 using X-Ray images.
 I have used ResNet50, VGG16 pre-trained models for COVID-19 detection. I have also implemented a CNN model with VGG-baseline structure.
 Implementation details are as follows:
